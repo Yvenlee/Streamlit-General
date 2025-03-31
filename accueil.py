@@ -9,6 +9,7 @@ st.subheader("Bienvenue sur mon portfolio !")
 st.write("""
     Bonjour et bienvenue sur mon portfolio ! 👋
 
+    **Sur MOBILE : Appuyer sur la petite flèche en haut à droite pour voir le menu !**
     Actuellement à la recherche d'un stage **Data Science / Analyse de Données**. 
     - **Durée** : 6 mois
     - **Rythme** : 2 semaines en entreprise, 1 semaine à l'école
