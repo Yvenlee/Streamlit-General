@@ -11,10 +11,11 @@ st.write("""
 
     (Sur MOBILE : Appuyer sur la petite flèche en haut à gauche pour voir le menu !)
          
-    Actuellement à la recherche d'un stage **Data Science / Analyse de Données**. 
-    - **Durée** : 6 mois
+    Actuellement à la recherche d'un contrat d'apprentissage pour poursuivre mon master en Data Engineering :
+    - **Durée** : 24 mois
     - **Rythme** : 2 semaines en entreprise, 1 semaine à l'école
-    - **Disponibilité** : ASAP
+    - **Disponibilité** : Le plus tôt possible
+    - **Secteur** : Data Engineering, Data Science, Machine Learning, Deep Learning, Data Analyst
     
     J'adore explorer et analyser des données pour résoudre des problèmes et aider à prendre des décisions plus éclairées. Mon but, c'est de participer à des projets intéressants où je peux apprendre encore plus tout en apportant mes compétences à l’équipe.
     
