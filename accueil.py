@@ -1,45 +1,40 @@
 import streamlit as st
 
-st.set_page_config(page_title="Portfolio - Recherche de Stage", layout="wide")
+st.set_page_config(page_title="Portfolio - Yvenlee Vonin--Kabel", layout="wide")
 
-st.title("**YVENLEE VONIN--KABEL**")
+st.title("**Yvenlee Vonin--Kabel**")
+st.subheader("Bienvenue sur mon portfolio personnel !")
 
-st.subheader("Bienvenue sur mon portfolio !")
+st.markdown("""
+---
 
-st.write("""
-    Bonjour et bienvenue sur mon portfolio ! 👋
+### À propos de moi
 
-    (Sur MOBILE : Appuyer sur la petite flèche en haut à gauche pour voir le menu !)
-         
-    Actuellement à la recherche d'un contrat d'apprentissage pour poursuivre mon master en Data Engineering :
-    - **Durée** : 24 mois
-    - **Rythme** : 2 semaines en entreprise, 1 semaine à l'école
-    - **Disponibilité** : Le plus tôt possible
-    - **Secteur** : Data Engineering, Data Science, Machine Learning, Deep Learning, Data Analyst
-    
-    J'adore explorer et analyser des données pour résoudre des problèmes et aider à prendre des décisions plus éclairées. Mon but, c'est de participer à des projets intéressants où je peux apprendre encore plus tout en apportant mes compétences à l’équipe.
-    
-    **Mon profil** :
-    - Compétences en : Python, Machine Learning, Deep Learning, Analyse de Données
-    - Méthodologies : Nettoyage de données, Visualisation, Modélisation
+Passionné par l'exploration et l'analyse des données, j'aime transformer des informations complexes en solutions concrètes. Mon objectif est de participer à des projets innovants tout en développant mes compétences en :
 
-    J'ai hâte de discuter avec vous et d'apporter ma contribution à vos projets ! 🚀
+- **Python**, **Machine Learning**, **Deep Learning**
+- **Analyse et visualisation de données**
+- **Nettoyage**, **modélisation**, et **interprétation des données**
 
-    ### Pourquoi me choisir ?
-         
-    - **Passion pour l'analyse de données**
-    - **Finaliste d'un Hackaton organisé par mon école et lié à Engie**
-    - **Esprit d'équipe** et **adaptabilité**
+---
 
-    N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez en savoir plus !
+### Pourquoi me choisir ?
+
+-  Finaliste **d’un Hackathon organisé par mon école avec Engie**
+-  Excellent **esprit d’équipe** et forte **adaptabilité**
+-  Véritable **enthousiasme pour les projets data-driven**
+
+N'hésitez pas à consulter mes projets ci-contre (Petite flèche en haut à gauche sur mobile) ou à me contacter !
+
+---
 """)
 
 col1, col2 = st.columns(2)
 
 with col1:
-    st.subheader("📞 Mon numéro de téléphone")
+    st.subheader("📞 Téléphone")
     st.write("+33 7 70 20 42 25")
 
 with col2:
-    st.subheader("📧 Mon e-mail")
+    st.subheader("📧 E-mail")
     st.write("yvenlycee@gmail.com")
