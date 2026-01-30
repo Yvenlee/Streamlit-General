@@ -37,4 +37,4 @@ with col1:
 
 with col2:
     st.subheader("📧 E-mail")
-    st.write("yvenlycee@gmail.com")
+    st.write("yv.vonin.kabel@gmail.com")
